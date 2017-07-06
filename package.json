@@ -1,6 +1,6 @@
 {
   "name": "vue-tooltips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue.js Tooltips",
   "main": "dist/tooltips.min.js",
   "dependencies": {
