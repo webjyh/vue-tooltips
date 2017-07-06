@@ -1,5 +1,7 @@
 # Vue-Tooltips <small>Vue 2.x</small>
 
+### [English](https://github.com/webjyh/vue-tooltips) | [中文](https://github.com/webjyh/vue-tooltips/blob/master/README.zh_CN.md)
+
 ### Demo
 http://demo.webjyh.com/vue-tooltips
 
@@ -69,13 +71,12 @@ new Vue({
 
 ### Example
 ```javascript
-// 直接调用
 this.$tooltips('Tooltips !!!');
 
-// 设置消失时间
+// set duration
 this.$tooltips('Tooltips !!!', 5000);
 
-// 配置 options
+// set Options
 this.$tooltips('Tooltips !!!', {
     type: 'danger',
     duration: 3000,
@@ -84,7 +85,6 @@ this.$tooltips('Tooltips !!!', {
     }
 });
 
-// 快捷调用
 /* type = 'success' */
 this.$tooltips.success(msg, [, options]);
 
