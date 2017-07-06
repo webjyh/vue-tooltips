@@ -69,7 +69,7 @@ new Vue({
     data: function() {
         return {}
     },
-    mounted() {
+    mounted: function() {
         this.$tooltips('vue-Tooltips !!!');
     }
 });
