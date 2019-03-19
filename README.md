@@ -5,7 +5,7 @@
 ### Demo
 http://demo.webjyh.com/vue-tooltips
 
-![http://webjyh.qiniudn.com/vue_tooltips_qrcode.png](http://webjyh.qiniudn.com/vue_tooltips_qrcode.png)
+![http://cdn.webjyh.com/vue_tooltips_qrcode.png](http://cdn.webjyh.com/vue_tooltips_qrcode.png)
 
 ### Build
 ``` bash
